@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(0, 150, 240);
+}
+.portfolio {
+  text-align: center;
+}
+.image-placeholder {
+    background-color: #eee;
+    display: flex;
+    height: 300px;
+    margin: 5px;
+    width: 400px;
+}
+
+.image-placeholder > h4 {
+    align-self: center;
+    text-align: center;
+    width: 100%;
+}
+.contact {
+  text-align: center;
+}
+input {
+  text-align: left;
+}
+.about {
+  text-align: center;
+}
