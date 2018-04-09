@@ -1,25 +1,40 @@
-.title {
-  font-family: Helvetica;
-  text-align: center;
+* {
+  padding: 0;
+  marging: 0;
+  box-sizing: border-box;
 }
-.subtitle {
-  font-style: italic;
-  font-family: Arial;
-  text-align: center;
-}
-img {
-  height: 800px;
-  width: 400px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+
 body {
-  background-color: rgb(80, 200, 235);
+  background: #34B2A4;
 }
-p {
-  font-family: Arial;
+
+.main {
+  background: #732954;
+  width: 400px;
+  height: 175px;
+  margin: 100px auto;
+  position: relative;
+  padding: 30px;
 }
-.description {
+
+.badge {
+  width: 96px;
+  background: #123D57;
+  color: white;
+  padding: 5px 10px;
+  font-family: sans-serif;
+  font-weight: bold;
+  position: absolute;
+  top: -15px;
+  left: 40%;
+}
+
+.clock {
+  background: #EBEBEB;
   text-align: center;
+  font-size: 55px;
+  font-family: Helvetica;
+  height: 100%;
+  padding-top: 25px;
+  border-radius: 4px;
 }
