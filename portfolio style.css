@@ -1,0 +1,104 @@
+.youTubeIcon {
+  color: red;
+}
+
+.twitterIcon {
+  color: rgb(0, 172, 237);
+}
+
+.githubIcon {
+  color: rgb(102, 43, 129)
+}
+
+.facebookIcon {
+  color: rgb(59, 89, 163)
+}
+
+.linkedinIcon {
+  color: rgb(0, 127, 178)
+}
+
+.block {
+  background-color: aqua;
+  opacity: .8;
+  padding: 20px;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 10px;
+  margin-top: -40%;
+  margin-bottom: auto;
+  
+}
+
+.nav-pills {
+  font-size: 2.0em;
+  background-color: yellow;
+}
+
+body {
+  background-color: white;
+  font-family: Raleway;
+  color: black;
+}
+
+h1 {
+  padding: 0;
+  margin-top: 0px;
+  font-size: 7.0em;
+}
+
+.btn-default {
+  background-color: white;
+  border-color: black;
+  color: #337ab7;
+  font-size: 1.7em;
+}
+
+.pageOne {
+  background: url("http://backgroundcheckall.com/wp-content/uploads/2017/12/background-web-design-7.jpg");
+  background-size: cover;
+  height: 600px;
+}
+
+.pageTwo {
+  background: url("http://aldingas.com/wp-content/uploads/2015/09/blue-green-modern-background.jpg");
+  background-size: cover;
+  height: 600px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  color: black;
+}
+
+.pageThree{
+  background: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/blue-tech-circuit-board-technology-animated-background-video-graphic-design-hd-1920x1080_ewva7rwie__F0000.png");
+  background-size: cover;
+  height: 1000px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.pageFour{
+  background: url("https://wallpaperbrowse.com/media/images/maxresdefault_pFn6Di0.jpg");
+  background-size: cover;
+  height: 600px;
+  padding-top: 5%
+}
+
+p {
+  font-size: 2.2em;
+}
+
+.paddingTop {
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.footer {
+  background-color: black;
+}
+
+.paddingBTN {
+  width: 200px;
+  margin-bottom: 25px;
+}
